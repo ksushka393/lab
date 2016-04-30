@@ -16,7 +16,7 @@ Pass
 maxlenght="50" value="">
 <br>
 <br>
-<input type="button" name="Inter" size="30" value="Войти">
+<input type="button" name="Inter" size="30" value="Inter">
 </form>
 </body>
 </html>
